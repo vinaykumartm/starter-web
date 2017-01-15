@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Photo booth artisan wayfarers, kogi chia hell of woke migas edison bulb. Air plant +1 umami, tumeric gentrify poutine scenester mustache hammock man braid four loko subway tile affogato. Readymade vice poke swag lo-fi gentrify. Woke roof party tacos art party. Gluten-free ethical paleo street art pop-up actually. Offal try-hard small batch raclette tousled. Ugh cold-pressed venmo, brooklyn stumptown affogato tacos fixie godard church-key.
 Adding new line manually via notepad in workstation.
+=======
+Photo booth artisan wayfarers, kogi chia hell of woke migas edison bulb. Air plant +1 umami, tumeric gentrify poutine scenester mustache hammock man braid four loko subway tile affogato. Readymade vice poke swag lo-fi gentrify. Woke roof party tacos art party. Gluten-free ethical paleo street art pop-up actually. Offal try-hard small batch raclette tousled. Ugh cold-pressed venmo, brooklyn stumptown affogato tacos fixie godard church-key.
+Added new line from GUI
+>>>>>>> 661ef25f4cbed013039a959b946986eb0f8f8e4e
